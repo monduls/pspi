@@ -10,7 +10,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Emilia Ćwiek. [Prezentacja](http://slides.com/emila1104/ksi), [Książki](https://github.com/ecwiek/ksiazki-obrazkowe).
 1. [Monika Dulska](https://github.com/monduls/mnemonics).
    [Grafika w Polsce](http://slides.com/monduls/grafika),
-   [Moja strona w Github](monduls.github.io),
+   [Strona w Github](http://monduls.github.io),
    [Strona w JSBin](http://jsbin.com/wakuzece/10/quiet).
 1. [Ryszard Gatz.](https://github.com/literonim/Technologie.internetowe).
    [Prezentacja](http://slides.com/luty/national-basket/),
