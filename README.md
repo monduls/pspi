@@ -3,11 +3,15 @@
 
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
-1. [Dagmara Bruska](https://github.com/dbruska/Kawa),[Prezentacja](http://slides.com/dbruska/untitle), [Moja strona internetowa](http://dbruska.github.io/)
+1. [Dagmara Bruska](https://github.com/dbruska/Kawa).
+   [Prezentacja](http://slides.com/dbruska/untitle), 
+   [Moja strona internetowa](http://dbruska.github.io/).
 1. [Łukasz Bujakowski](https://github.com/lbujakowski/Nauka).
    [Prezentacja](http://slides.com/lbujakowski/prezentacja),
    [Moja Strona Internetowa](http://jsbin.com/sugiqapu/1).
-1. Emilia Ćwiek. [Prezentacja](http://slides.com/emila1104/ksi), [Książki](https://github.com/ecwiek/ksiazki-obrazkowe).
+1. Emilia Ćwiek. 
+   [Prezentacja](http://slides.com/emila1104/ksi), 
+   [Książki](https://github.com/ecwiek/ksiazki-obrazkowe).
 1. [Monika Dulska](https://github.com/monduls/mnemonics).
    [Grafika w Polsce](http://slides.com/monduls/grafika),
    [Strona w Github](http://monduls.github.io),
@@ -22,7 +26,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [7 cudów świata](http://slid.es/danutahasiak/prezentacja).
 1. Marta Kaczmarek.
 1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
-[Moja strona internetowa](http://bacorka3.github.io/Samouczek/)
+   [Moja strona internetowa](http://bacorka3.github.io/Samouczek/)
    [Reklama.Technik Cyfrowych Procesów Graficznych](http://slides.com/bacorka3/technik-cyfrowych-procesow-graficznych)
 1. [Wojciech Krasucki](https://github.com/wkrasucki/readme.md).
    [Rodzaje kawy - wszystkie... ( prawie :)](http://slides.com/wkrasucki/coffee).
