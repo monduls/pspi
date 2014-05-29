@@ -3,7 +3,7 @@
 
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
-1. [Dagmara Bruska](https://github.com/dbruska/Kawa).
+1. [Dagmara Bruska](https://github.com/dbruska/Kawa), (https://github.com/dbruska/cos-smacznego)
    [Prezentacja](http://slides.com/dbruska/untitle), 
    [Moja strona internetowa](http://dbruska.github.io/).
 1. [Łukasz Bujakowski](https://github.com/lbujakowski/Nauka).
