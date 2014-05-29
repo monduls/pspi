@@ -15,7 +15,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Monika Dulska](https://github.com/monduls/mnemonics).
    [Grafika w Polsce](http://slides.com/monduls/grafika),
    [Strona w Github](http://monduls.github.io),
-   [Strona w JSBin](http://jsbin.com/wakuzece/10/quiet).
+   [Strona w JSBin](http://jsbin.com/wakuzece/13/quiet).
 1. [Ryszard Gatz.](https://github.com/literonim/Technologie.internetowe).
    [Prezentacja](http://slides.com/luty/national-basket/),
    [Moja strona internetowa](http://literonim.github.io/)
