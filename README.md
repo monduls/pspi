@@ -22,7 +22,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Strona nr 1 do mojego Repozytorium "Technologie Internetowe"](http://literonim.github.io/Technologie.internetowe/)
    [Strona nr 2 do mojego Repozytorium "Cwiczenia Programowanie"](http://literonim.github.io/Cwiczenia.Programowanie/)
 1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md).
-   [Promocja szkoły](http://slid.es/henia2064/deck).
+   [Promocja szkoły](http://slid.es/henia2064/deck), [Moja strona internetowa](http://henia2064.github.io).
 1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
    [Moja strona internetowa](http://danuskah.github.io),
    [7 cudów świata](http://slid.es/danutahasiak/prezentacja).
